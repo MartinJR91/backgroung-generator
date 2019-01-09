@@ -1,0 +1,22 @@
+{
+  "name": "backgroung-generator",
+  "version": "1.0.0",
+  "description": "exercice css3",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinJR91/backgroung-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinJR91/backgroung-generator/issues"
+  },
+  "homepage": "https://github.com/MartinJR91/backgroung-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
